@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\bin\Debug\net7.0\TpFilRouge.Business.deps.json
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\bin\Debug\net7.0\TpFilRouge.Business.dll
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\bin\Debug\net7.0\TpFilRouge.Business.pdb
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\bin\Debug\net7.0\TpFilRouge.DAL.dll
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\bin\Debug\net7.0\TpFilRouge.DAL.pdb
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\TpFilRouge.Business.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\TpFilRouge.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\TpFilRouge.Business.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\TpFilRouge.Business.AssemblyInfo.cs
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\TpFilRouge.Business.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\TpFilRouge.Business.csproj.CopyComplete
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\TpFilRouge.Business.dll
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\refint\TpFilRouge.Business.dll
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\TpFilRouge.Business.pdb
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.Business\obj\Debug\net7.0\ref\TpFilRouge.Business.dll

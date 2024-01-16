@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\bin\Debug\net7.0\TpFilRouge.DAL.deps.json
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\bin\Debug\net7.0\TpFilRouge.DAL.dll
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\bin\Debug\net7.0\TpFilRouge.DAL.pdb
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\TpFilRouge.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\TpFilRouge.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\TpFilRouge.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\TpFilRouge.DAL.AssemblyInfo.cs
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\TpFilRouge.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\TpFilRouge.DAL.dll
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\refint\TpFilRouge.DAL.dll
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\TpFilRouge.DAL.pdb
+C:\Users\Administrateur\Source\Repos\TPFilRouge\TpFilRouge.DAL\obj\Debug\net7.0\ref\TpFilRouge.DAL.dll
